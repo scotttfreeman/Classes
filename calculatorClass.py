@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from fredapi import Fred
-fred = Fred(api_key='a686ca4a5f04c6297e44745673535f27') # enter your own Fred API key
+fred = Fred(api_key='your api key') # enter your own Fred API key
 
 class Calculator(object):
 
